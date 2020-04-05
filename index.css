@@ -1,0 +1,97 @@
+body{
+  background-color: #393e46;
+  height: 100%;
+  width: 100%;
+}
+
+.header{
+  height: 200px;
+  width: 100%;
+
+}
+.refresh{
+  font-family: 'Spicy Rice', cursive;
+  font-size:140px;
+  color: #75daad ;
+  text-align: center;
+   margin-bottom:0px;
+   margin-top: 0px;
+
+}
+.main{
+height: 600px;
+width: 100%;
+}
+.dice{
+text-align: center;
+
+}
+.fas{
+  color: red;
+}
+.fa-dice{
+  color: red;}
+
+.p1{
+  color: #75daad ;
+  font-family: 'Spicy Rice', cursive;
+  font-size: 35px ;
+  position: relative;
+  left: 990px;
+  display: inline-block;
+}
+
+.p2{
+  color: #75daad ;
+font-family: 'Spicy Rice', cursive;
+  font-size: 35px ;
+  position: relative;
+  left: 685px;
+  display: inline-block;
+}
+@media screen and (max-width: 1077px){
+  .p2{  color: #75daad ;
+  font-family: 'Spicy Rice', cursive;
+    font-size: 35px ;
+    position: relative;
+    left: 220px;
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 1077px){
+  .p1{  color: #75daad ;
+  font-family: 'Spicy Rice', cursive;
+    font-size: 35px ;
+    position: relative;
+    left: 550px;
+    display: inline-block;
+  }
+}
+
+
+.img1{
+  height: 300px;
+  display: inline-block;
+  padding: 40px 70px;
+margin-top: 50px;
+
+}
+
+.img2{
+  height: 300px;
+  display: inline-block;
+  padding: 40px 70px;
+margin-top: 50px;
+
+}
+
+
+
+.buttom{
+  color:white;
+  font-size: 20px;
+  font-family: 'Spicy Rice', cursive;
+  height: 100px;
+  text-align: center;
+}
